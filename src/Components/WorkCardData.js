@@ -21,7 +21,7 @@ const ProjectCardData = [
     imgsrc: pro3,
     title:"Personal Portfolio",
     text:"Created a simple portfolio website using,HTML,CSS,javaScript,React,Bootstrap.I have also added one contact section at last.",
-    view:"https://parvez1615.github.io/profile/",
+    view:"https://mdparvez-portfolio.netlify.app/",
     source:"https://github.com/Parvez1615/profile"
    }
 ];
